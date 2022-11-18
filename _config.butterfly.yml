@@ -3,23 +3,9 @@
 # --------------------------------------
 
 menu:
-  首页: /html/index.html || fas fa-home
-  产品服务: /html/Product-services.html || fas fa-home
-  客户案例: /html/Cases.html || fas fa-home
   博客||fas fa-list:
     文章: / || fas fa-music
     归档: /archives/ || fas fa-archive
-  关于我们: /html/javascript:void(0) || fas fa-home
-  # 首页: /home || fas fa-home
-  # 服务与支持: /serve
-  # 关于我们: /about/ || fas fa-heart
-  # 标签: /tags/ || fas fa-tags
-  # 归档: /archives/ || fas fa-archive
-  # 分类: /categories/ || fas fa-folder-open
-  # 列表||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
-  # 友链: /link/ || fas fa-link
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -527,7 +513,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://source.fomal.cc/img/dm2.webp)
+background: url(https://source.fomal.cc/img/dm4.webp)
 
 # Footer Background
 footer_bg: false
@@ -647,8 +633,8 @@ subtitle:
   source: 1
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - "Welcome to Fomalhaut🥝のTiny Home!🤣🤣🤣"
-    - "Hope you have a nice day!🍭🍭🍭"
+    - "Welcome to InsightMon Home!"
+    - "Hope you have a nice day!"
 
 # Loading Animation (加載動畫)
 preloader:
